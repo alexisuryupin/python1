@@ -1,0 +1,5 @@
+n = int(input('Введите ваше число:'))
+n1 = n + int(str(n) + str(n) + (str(n)+str(n)+str(n)))
+print(n)
+print(n1)
+print(type(n1))
